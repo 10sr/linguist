@@ -2086,6 +2086,7 @@ JSON:
   - ".jshintrc"
   - ".tern-config"
   - ".tern-project"
+  - Pipfile.lock
   - composer.lock
   - mcmod.info
   language_id: 174
@@ -4614,6 +4615,7 @@ TOML:
   filenames:
   - Cargo.lock
   - Gopkg.lock
+  - Pipfile
   tm_scope: source.toml
   ace_mode: toml
   codemirror_mode: toml
